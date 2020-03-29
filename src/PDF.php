@@ -32,6 +32,7 @@ class PDF{
     protected $rendered = false;
     protected $orientation;
     protected $paper;
+    protected $testing;
     protected $showWarnings;
     protected $public_path;
 
